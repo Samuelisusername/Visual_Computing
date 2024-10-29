@@ -1,4 +1,4 @@
-****Removes the bluescreen background from the video of a boxer.**** 
+ # Removes the bluescreen background from the video of a boxer
 
 We do this by sampling a few of the blue values and then taking the average of those as a **base colour** for the bluescreen.
 
